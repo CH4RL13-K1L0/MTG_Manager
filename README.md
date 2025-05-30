@@ -1,2 +1,2 @@
 # MTG_Manager
-A simple MTG EDH torunament logging program and database editor
+A simple MTG EDH tournament logging program and database editor
